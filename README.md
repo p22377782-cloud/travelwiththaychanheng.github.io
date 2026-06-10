@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🌐 My First Test Website
 
-# Run and deploy your AI Studio app
+Welcome to my beginner website project!  
+This site is created for learning and testing web development skills.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/23251c97-77a3-4809-8b8d-3ebc58994f9a
+## 🚀 Live Demo
+👉 https://travelwiththaychanheng.github.io/
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 📚 About This Project
 
+This is a simple website built using:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- HTML
+- CSS
+- (Optional) JavaScript
+
+هدف: Practice building and publishing a website using GitHub Pages.
+
+---
+
+## 🛠️ Tools Used
+
+- GitHub
+- GitHub Pages
+- VS Code (or any code editor)
+
+---
+
+## 📁 Project Structure
