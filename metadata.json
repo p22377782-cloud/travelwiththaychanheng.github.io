@@ -1,0 +1,6 @@
+{
+  "name": "Travel with Thaychanheng",
+  "description": "A modern, professional travel blog and CMS platform for the Travel with Thaychanheng brand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
